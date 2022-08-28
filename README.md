@@ -1,3 +1,6 @@
+#### 本项目是使用create-vue包的3.3.2版本创建的
+![图片加载中...](./create-vue.png)
+
 # hello-world_vue3
 
 This template should help get you started developing with Vue 3 in Vite.
