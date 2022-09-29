@@ -32,7 +32,7 @@
 import { reactive } from 'vue'
 
 const formFields = reactive({
-  radio1: '1-1',
+  radio1: 'radio1-1',
   checkbox1: true,
   checkbox2: []
 })
